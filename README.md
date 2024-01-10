@@ -1,8 +1,8 @@
-#Mini Project - Terminal Game
+# Mini Project - Terminal Game
 
-##Classes
+## Classes
 
-###Ninja
+### Ninja
 The ninja 
 
 
