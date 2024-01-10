@@ -14,7 +14,7 @@ Support: throw a health potion at at ally to heal them for 5-8 HP.
 Special: throw a potion that heals all allies for 3-4 HP and also deals 4-6 damage to one enemy.  
 
 ### **Boss class - Dragon**
-#### *The Boss, which appears when a single opponent is selected, will be a dragon.*
+#### *The Boss, which appears when a single opponent is selected, will be a dragon with 35 HP.*
 Attack: breathe fire and damage a single opponent for 9-12 damage and restore mana.  
 Support: heal itself for 20% of max HP.  
 Special: consume mana and deal 12-16 fire damage to a single target.  
